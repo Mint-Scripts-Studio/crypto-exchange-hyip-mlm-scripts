@@ -1,6 +1,6 @@
-# 🇷🇺 ProfitScripts — студия разработки Web, Crypto и Telegram проектов
+# 🇷🇺 Mint Scripts — студия разработки Web, Crypto и Telegram проектов
 
-[![ProfitScripts Development Studio](https://i.imgur.com/nQzBofI.jpeg)](https://profitscripts.asia)
+[![Mint Scripts Development Studio](https://mintscripts.net/templates/Default/images/og-default.jpg)](https://mintscripts.net)
 
 Добро пожаловать в **ProfitScripts** — профессиональную студию по разработке **сайтов, криптовалютных бирж, Telegram-ботов и любых интернет-проектов**, включая **токены, dApp и DeFi-платформы**.
 
@@ -27,7 +27,7 @@
 ## 🧩 Магазин скриптов
 
 🎯 Готовые решения и шаблоны для быстрого запуска:  
-👉 https://profitscripts.asia/shop/
+👉 https://mintscripts.net/market
 
 Там вы найдете **скрипты сайтов, криптопроектов, Telegram-ботов** и другие готовые решения для бизнеса.
 
@@ -50,12 +50,11 @@
 
 ## 📞 Контакты
 
-💬 Telegram: [@ProfitScripts](https://t.me/ProfitScripts)  
-📩 Email: profitscripts@gmail.com  
-🌍 Сайт: [https://profitscripts.asia](https://profitscripts.asia)  
-🛒 Магазин скриптов: [https://shop.profitscripts.asia](https://shop.profitscripts.asia)
+💬 Telegram: [@ProfitScripts](https://t.me/MinttScripts)  
+
+🌍 Сайт: https://mintscripts.net/
 
 ---
 
-> 💻 **ProfitScripts** — ваш партнёр в разработке современных IT и крипто-проектов.  
+> 💻 **Mint tScripts** — ваш партнёр в разработке современных IT и крипто-проектов.  
 > От идеи до результата. Быстро, безопасно, профессионально.
