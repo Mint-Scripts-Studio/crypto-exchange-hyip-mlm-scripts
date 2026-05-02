@@ -50,7 +50,7 @@
 
 ## 📞 Контакты
 
-💬 Telegram: [@ProfitScripts](https://t.me/MinttScripts)  
+💬 Telegram: [@MintScripts](https://t.me/MinttScripts)  
 
 🌍 Сайт: https://mintscripts.net/
 
